@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104512357556",
+    "project_id": "career-compass-81ca9",
+    "storage_bucket": "career-compass-81ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104512357556:android:e8ff33b76baacdabc943e1",
+        "android_client_info": {
+          "package_name": "com.example.careercompass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkpbh4AZs6t2boo8fBzWGZHaR2u5c3es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
